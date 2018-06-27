@@ -35,5 +35,7 @@
 可以参考：
 
 [基于 Redis 的分布式锁](http://crossoverjie.top/2018/03/29/distributed-lock/distributed-lock-redis/)
+[Redisのsetnxを使ってマルチサーバ環境での Web API ロック機構を実現する](https://dev.classmethod.jp/server-side/redis-lock/)
+[SETNX中](http://redisdoc.com/string/setnx.html) [setnx英](https://redis.io/commands/setnx)
 
 ### 基于 ZK
