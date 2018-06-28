@@ -28,6 +28,7 @@ Java 知识点，继续完善中。
 - [线程池原理](https://github.com/jasonadu/Java-Interview/blob/master/MD/ThreadPoolExecutor.md)
 - [深入理解线程通信](https://github.com/jasonadu/Java-Interview/blob/master/MD/concurrent/thread-communication.md)
 - [交替打印奇偶数](https://github.com/jasonadu/Java-Interview/blob/master/src/main/java/com/crossoverjie/actual/TwoThread.java)
+- [Java并发-汪建](https://www.kancloud.cn/seaboat/java-concurrent/117868)
 
 ### JVM
 - [Java 运行时内存划分](https://github.com/jasonadu/Java-Interview/blob/master/MD/MemoryAllocation.md)
